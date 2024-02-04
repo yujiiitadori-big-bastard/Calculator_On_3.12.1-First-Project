@@ -1,6 +1,6 @@
 Certainly! Here's the revised version without bold formatting:
 
-1. Simple Calculator Flowchart:
+### 1. Simple Calculator Flowchart:
 
 Input:
 - I prompt the user to enter the first number.
@@ -15,7 +15,7 @@ Processing:
 Output:
 - I display the result of the calculation.
 
-2. Simple Calculator using Symbols Flowchart:
+### 2. Simple Calculator using Symbols Flowchart:
 
 Input:
 - I prompt the user to enter the first number.
@@ -30,7 +30,7 @@ Processing:
 Output:
 - I display the result of the calculation.
 
-3. Basic Calculator with User Interaction:
+### 3. Basic Calculator with User Interaction:
 
 Introduction:
 - I display some introductory messages.
